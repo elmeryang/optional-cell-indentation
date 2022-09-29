@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectLibraryManager">
+    <option name="libraries">
+      <map>
+        <entry key="itemis">
+          <value>
+            <Library>
+              <option name="name" value="itemis" />
+              <option name="path" value="$PROJECT_DIR$/itemisMpsExtensions" />
+            </Library>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

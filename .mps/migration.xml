@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MigrationProperties">
+    <entry key="com.workday.yp.migration.v1.AddXoProxyAnnotationToToggles" value="executed" />
+    <entry key="com.workday.yp.migration.v1.CopyComponentConfigurationToNewFacet" value="executed" />
+    <entry key="com.workday.yp.migration.v1.RemoveInvalidTailRecursionAnnotation" value="executed" />
+    <entry key="jetbrains.mps.ide.mpsmigration.v_2021_3.ExtractMPSBootStubs" value="executed" />
+    <entry key="project.baseline.version" value="213" />
+  </component>
+</project>
